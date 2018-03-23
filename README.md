@@ -58,8 +58,8 @@ Command | Description | Aliases | Usage
 Command | Description | Aliases | Usage
 --- | --- | --- | ---
 `fact` | Return a random fact. |  | `>fact`
-`8ball` | Just sending a picture. | `8b` | `>8ball <question>?`
-`coinflip` | Just sending a picture. | `coin`, `cf` | `>cf`
+`8ball` | Return a 8ball answer for your question. | `8b` | `>8ball <question>?`
+`coinflip` | Flipping a coin. | `coin`, `cf` | `>cf`
 `qrcode` | Convert your text to qrcode. | `qr` | `>qr <text>`
 `rip` | Just sending a picture. |  | `>rip`
 
