@@ -35,12 +35,20 @@ Command | Description | Aliases | Usage
 `donate` | Sending available options to support bot | | `>donate`
 `about` | Returns information about the bot. | | `>about`
 
+### Emojis ###
+Command | Description | Aliases | Usage
+--- | --- | --- | ---
+`serveremojis` | Return server emojis list. | `se` | `>serveremojis`
+`esearch` | Returns search for specific emoji. | | `>esearch <name>`
+`eview` | Returns info about specific emoji. | | `>eview <name>`
+`eadd` | Adding specific emoji to your server. | | `>eadd <name>`
+`eremove` | Removing specific emoji from your server | `edelete` | `>eremove <name>`
+
 ### Utility ###
 
 Command | Description | Aliases | Usage
 --- | --- | --- | ---
 `serverinfo` | Return server information. | `se` | `>se`
-`serveremojis` | Return server emojis list. | `ses` | `>ses`
 `channelinfo` | Return channel information. | `ci` | `>ci`
 `lastseen` | Return lastseen  | `ls` | `>ls <@user>`
 `userinfo` | Return user information. | `ui` | `ui`, `>ui <@user>`
