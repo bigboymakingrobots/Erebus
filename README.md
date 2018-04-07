@@ -42,7 +42,7 @@ Command | Description | Aliases | Usage
 `esearch` | Returns search for specific emoji. | | `>esearch <name>`
 `eview` | Returns info about specific emoji. | | `>eview <name>`
 `eadd` | Adding specific emoji to your server. | | `>eadd <name>`
-`eremove` | Removing specific emoji from your server | `edelete` | `>eremove <name>`
+`eremove` | Removing specific emoji from your server. | `edelete` | `>eremove <name>`
 
 ### Utility ###
 
