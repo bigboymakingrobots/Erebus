@@ -41,7 +41,7 @@ Command | Description | Aliases | Usage
 `serveremojis` | Return server emojis list. | `se` | `>serveremojis`
 `esearch` | Returns search for specific emoji. | | `>esearch <name>`
 `eview` | Returns info about specific emoji. | | `>eview <name>`
-`eadd` | Adding specific emoji to your server. | | `>eadd <name>`
+`eadd` | Adding specific emoji to your server. | | `>eadd <name> <custom_name>`
 `eremove` | Removing specific emoji from your server. | `edelete` | `>eremove <name>`
 
 ### Utility ###
