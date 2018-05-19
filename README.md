@@ -64,6 +64,7 @@ Command | Description | Aliases | Usage
 --- | --- | --- | ---
 `kick` | Kick user from a server. |  | `>kick <@user> <reason>`
 `ban` | Ban user from a server. |  | `>ban <@user> <reason>`
+`purge` | Delete provided amount of messages. |  | `>purge <amount>`
 
 ### Other ###
 
