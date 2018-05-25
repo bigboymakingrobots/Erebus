@@ -27,7 +27,6 @@ Command | Description | Aliases | Usage
 `Fshop` | Run both Fdaily and Ffeatured commands. | | `>fshop`
 `FortniteAll` | Return LifeTime stats for a player in each game mode. | `fall`, `fa` | `>fa <platform> <player>`
 `FortniteAllSeason` | Return LifeTime stats for a player in each game mode for current season. | `falls`, `fas` | `>fas <platform> <player>`
-`Rainbow6` | Return rainbow6 stats for a player. | `r6` | `>r6 <player>`
 
 ### General ###
 Command | Description | Aliases | Usage
