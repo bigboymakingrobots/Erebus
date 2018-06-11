@@ -22,9 +22,7 @@ Command | Description | Aliases | Usage
 `Fortnite` | Return LifeTime stats for a player. | `f`, `fn`, `ft` | `>f <platform> <player>`
 `Fortnite7` | Return Last 7 Days stats for a player. | `f7`, `fn7`, `ft7` | `>f7 <platform> <player>`
 `Fnews` | Return Fortnite last news. | | `>fnews`
-`Fdaily` | Return Fortnite daily items. | | `>fdaily`
-`Ffeatured` | Return Fortnite featured items. | `featured` | `>ffeatured`
-`Fshop` | Run both Fdaily and Ffeatured commands. | | `>fshop`
+`Fshop` | Return fortnite shop image. | | `>fshop`
 `FortniteAll` | Return LifeTime stats for a player in each game mode. | `fall`, `fa` | `>fa <platform> <player>`
 `FortniteAllSeason` | Return LifeTime stats for a player in each game mode for current season. | `falls`, `fas` | `>fas <platform> <player>`
 
