@@ -100,19 +100,19 @@ Command | Description | Aliases | Usage
 
 Command | Description | Aliases | Usage
 --- | --- | --- | ---
-`color` | Generates color with provided color code. |  | `>ban <@someone> <reason>`
-`dbl` | Show information about bot from discordbots.org. |  | `>kick <@someone> <reason>`
-`imdb` | Show information about certain movie. |  | `>purge <amount>`
-`npm` | Show information about certain npm package from npmjs.com. |  | `>unban <id> <reason>`
-`quote` | Quote a message from current channel. |  | `>ban <@someone> <reason>`
-`remind` | Makes remind for you. |  | `>kick <@someone> <reason>`
-`serverlist` | Show servers from discordsl.com. |  | `>purge <amount>`
-`steam` | Shows information about certain game on steam. |  | `>unban <id> <reason>`
-`steamuser` | Shows information about certain user on steam. |  | `>unban <id> <reason>`
-`todo` | Do `>help todo` | | `>todo`
+`color` | Generates color with provided color code. |  | `>color <color code>`
+`dbl` | Show information about bot from discordbots.org. |  | `>dbl <@someone or bot id>`
+`imdb` | Show information about certain movie. |  | `>imdb dark`
+`npm` | Show information about certain npm package from npmjs.com. |  | `>npm request`
+`quote` | Quote a message from current channel. |  | `>quote [#channel] <message id> [comment]`
+`remind` | Makes remind for you. |  | `>remind <time> <text>`
+`serverlist` | Show servers from discordsl.com. | `sl` | `>sl <name>`
+`steam` | Shows information about certain game on steam. |  | `>steam <game>`
+`steamuser` | Shows information about certain user on steam. |  | `>steamuser <username>`
+`todo` | Just do `>help todo` | | `>todo`
 `urban` | Shows definition of word from urbandictionary.com. | | `urban banan`
-`weather` | Shows weather for certain location. |  | `>purge <amount>`
-`wikipedia` | Searches Wikipedia. |  | `>unban <id> <reason>`
+`weather` | Shows weather for certain location. |  | `>weather hell`
+`wikipedia` | Searches Wikipedia. |  | `>wiki bat`
 
 
 ![ex](https://i.imgur.com/MxRHegx.png)
