@@ -15,6 +15,8 @@ Erebus
 Commands List
 -------------------
 
+**\* This list could be outdated, i recommend using >help <command> instead**
+
 ### Economy & Gambling ###
 Command | Description | Aliases | Usage
 --- | --- | --- | ---
